@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AndroidArshinsky.5.2</string>
+    <!-- Notes  -->
+    <string name="txtSaveBtn">Сохранить</string>
+    <string name="txtHintNote">введите заметку сюда</string>
+    <string name="txtToastSave">данные сохранены</string>
+    <!-- Task Term -->
+    <string name="txtStartDP">Дата-время старта задачи:</string>
+    <string name="txtEndDP">Дата-время окончания задачи:</string>
+    <string name="txtButOk">OK</string>
+    <!--Spinner Demo-->
+    <string name="txtButShow">Показать адрес</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+    <!--ChekBox demo-->
+    <string name="txtMoneyInput">Ввод денег</string>
+    <string name="txtOkBtn">OK</string>
+    <string name="txtChkCard">С банковской карты</string>
+    <string name="txtChkPhone">С мобильного телефона</string>
+    <string name="txtChkCash">Наличными по адресу</string>
+    <string name="txtInputInfo">Информация об оплате</string>
+    <string name="tstInfoError">"Вначале внесите всю информацию"</string>
+
+</resources>
